@@ -84,7 +84,7 @@ footer{
     width:1280px;
     margin:0;
     padding:0;
-    background-color: #a6c48d;
+    background-color: #120046;
     overflow: hidden;
     }
     nav ul{
@@ -99,8 +99,8 @@ footer{
     }
     
     nav > ul > li > a {
-        color: #023238;
-        background-color:#c0be81;
+        color: #ffffff;
+        background-color:#0c08fe;
         display: block;
         line-height: 2em;
         padding: 0.5em 0.5em;
@@ -113,11 +113,11 @@ footer{
 }
 
 a:hover {
-    background-color:#ddc1c0;
+    background-color:#e9e492;
 }
 
 .activepage{
-    background-color: #62c7d4;
+    background-color: #dbcd2a;
 }
 
 .flex-container {
